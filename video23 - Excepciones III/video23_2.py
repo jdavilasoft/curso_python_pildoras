@@ -7,7 +7,7 @@ Created on 10 oct. 2022
 def evaluaEdad(edad):
 
     if edad < 0:
-        raise TypeError("No se permite valores negativos")
+        raise MiPropioError("No se permite valores negativos")
 
     if edad < 20:
         return "eres muy joven"
