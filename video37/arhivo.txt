@@ -1,0 +1,3 @@
+Estupendo día para estudiar: 
+Manipulación de archivos con Python
+Escribo una línea mas, xd, xd, xd...
